@@ -1,22 +1,22 @@
 {
   "AdsManager": {
-    "ShowAds":false,
+    "ShowAds":true,
     "ShowDropAds":false,
     "ShowCpaAds":false,
-    "AdmobClick":2,
+    "AdmobClick":4,
     "BannerAds":"bb",
     "InterstitialAds":"bb",
     "NativeAds":"bb",
-    "RewardAds":"yandex",
-    "AdmobAppID":"ca-app-pub-3940256099942544~3347511713",
-    "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
+    "RewardAds":"min",
+    "AdmobAppID":"ca-app-pub-3773257020474386~6862179361",
+    "AdmobInterstitial":"ca-app-pub-3773257020474386/3526403739",
     "AdmobReward":"xxxxxxxxxxx",
-    "MintegralAppID":"144002",
-    "MintegralAppKey":"7c22942b749fe6a6e361b675e96b3ee9",
-    "MintegralInterstitialUnitID":"462374",
-    "MintegralInterstitialPlacementID":"290653",
-    "MintegralRewardUnitID":"xxxxxxx",
-    "MintegralRewardPlacementID":"xxxxxxx"
+    "MintegralAppID":"384728",
+    "MintegralAppKey":"1830ca60e9705834759abc6bbe80a5a5",
+    "MintegralInterstitialUnitID":"4583661",
+    "MintegralInterstitialPlacementID":"2476436",
+    "MintegralRewardUnitID":"4583659",
+    "MintegralRewardPlacementID":"2476434"
     },
   "MoreApps":[
       {
